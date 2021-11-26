@@ -1,0 +1,33 @@
+.headquarters__heading{
+margin-bottom: 75px;
+font-family: Fraunces 9pt;
+font-style: normal;
+font-weight: 900;
+font-size: 24px;
+line-height: 32px;
+color: #83888F;
+}
+.about__first{
+    background-image: url("../images/about.img/united-kindom.png");
+    background-repeat: no-repeat;
+    background-size: 40px 50px;
+
+}
+.about__first .card__heading{
+    padding-right: 0;
+}
+.about__second{
+    background-image: url("../images/about.img/canada.png");
+    background-repeat: no-repeat;
+    background-size: 45px 42px;
+}
+.about__thirt{
+    background-image: url("../images/about.img/austria.png");
+    background-repeat: no-repeat;
+    background-size: 49px 44px;
+}
+.about{
+    padding-right: 160px;
+    text-align:initial;
+    margin-bottom: 0;
+}

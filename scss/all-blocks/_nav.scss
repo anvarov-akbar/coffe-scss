@@ -1,0 +1,25 @@
+.nav__list{
+    display: flex;
+    justify-content: center;
+    vertical-align: middle;
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+}
+.nav__item{
+    margin: 0;
+    padding: 0;
+}
+.nav__item + .nav__item{
+    margin-left: 32px;
+}
+.nav__link{
+    font-family:"Barlow,Arial,San-serif";
+    font-weight: 700;
+    font-size: 12px;
+    line-height: 15px;
+    letter-spacing: 0.92px;
+    line-height: 104%;
+    text-decoration: none;
+    color: #83888F;
+}
